@@ -41,7 +41,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ksidharth8&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="ksidharth8" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksidharth8&show_icons=true&locale=en&layout=compact&theme=radical" alt="ksidharth8" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=omxkumar8&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="omxkumar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omxkumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="omxkumar" />
 <div/>
 <br/><br/></br/>
